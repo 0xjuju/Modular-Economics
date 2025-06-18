@@ -1,6 +1,6 @@
 
 # Modular Economics: One Block at a Time
-## Giving power back to the people. One block at a time
+Giving power back to the people. One block at a time
 
 **Modular Economics** is my attempt at reimagining how neighborhoods can tackle big-city issues—think poverty, homelessness, crime, and government corruption—by breaking things down into manageable, self-sustaining units or "blocks." The secret sauce? Blockchain technology, used as a tool to empower communities through incentives and transparent governance.
 
